@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplikasiPortalBerita</string>
+    <string name="judul_berita">Judul Berita</string>
+    <string name="tgl">Minggu, 16 April 2018</string>
+    <string name="penulis">Penulis</string>
+    <string name="deskripsi_gambar">Deskripsi gambar</string>
+</resources>
